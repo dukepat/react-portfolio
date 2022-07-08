@@ -11,7 +11,7 @@ const Hero = () => {
           <p className="text-[#38AFC7] font-bold ">Welcome to My world</p>
           <div className="md:flex-col">
             <h1 className="lg:text-7xl md:text-6xl text-5xl font-bold lg:py-4 ">
-              I'm here
+              I'm
             </h1>
             <p className="lg:text-5xl md:text-4xl text-3xl font-bold md:py-3 md:pb-5 text-[#4ADE80]  "> 
               Ojo Patrick Duke
