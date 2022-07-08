@@ -10,7 +10,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-10">
+        <p className="text-xl mt-10 hover:scale-110 duration-300">
           Who Am I?
           I am a Blockchain Developer from Lagos, Nigeria
           I have spent the last 2 years building smart contracts and full dapps. 
@@ -18,14 +18,14 @@ const About = () => {
           I also proud myself in knowledge of python and cloud technologies like AWS at advanced levels.  
         </p>
         <br />
-        <p className="text-xl mt-2 ">
+        <p className="text-xl mt-2 hover:scale-110 duration-300">
           My love for programming dates back to 2003 when I first had my hands on QBasic.
           This interest was further fired up when I started playing with web technologies like HTML, CSS and Javascript.
           I am now expanding my learning of Javascript and building web3 projects with ReactJs, NextJs and learning new technologies.
         </p>
 
         <br />
-        <p className="text-xl mt-2 ">
+        <p className="text-xl mt-2 hover:scale-110 duration-300">
           Don't get it twisted, I am a trained GIS and Remote sensing specialist and graduated as a historical topper (9.92/10 CGPA)
           My MSc Geoinformatics program made me more familiar with python, javascript and other technologies.
           Aside my core web3 development activities, I sometime carry out research activities on ML application for remote sensing
