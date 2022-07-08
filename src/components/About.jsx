@@ -12,18 +12,23 @@ const About = () => {
 
         <p className="text-xl mt-10">
           Who Am I?
-          I am a Web Developer from India.
-          I have spent the last 4 years in a PSU working as a Network and System Administrator. 
-          I have always had a knack for technology and working with computer programs. 
-          In 2020 during the pandemic, I started working with WordPress to build a blogging site.
-          Then I started doing some minor edits in  HTML & CSS to make my WordPress site work. 
+          I am a Blockchain Developer from Lagos, Nigeria
+          I have spent the last 2 years building smart contracts and full dapps. 
+          I have always had a knack for technology and working with computer programs.
+          I also proud myself in knowledge of python and cloud technologies like AWS at advanced levels.  
         </p>
         <br />
         <p className="text-xl mt-2 ">
-          What I thought was just a few minor edits turned into a love for programming.
-          Fascinated with how intricate programming can be I was quickly drawn to learn more. 
-          I started learning javascript and was even more enthused with making websites interactive. 
-          I am now spending my time learning Javascript and building projects with React Js, Next Js and Firebase, and learning new technologies.
+          My love for programming dates back to 2003 when I first had my hands on QBasic.
+          This interest was further fired up when I started playing with web technologies like HTML, CSS and Javascript.
+          I am now expanding my learning of Javascript and building web3 projects with ReactJs, NextJs and learning new technologies.
+        </p>
+
+        <br />
+        <p className="text-xl mt-2 ">
+          Don't get it twisted, I am a trained GIS and Remote sensing specialist and graduated as a historical topper (9.92/10 CGPA)
+          My MSc Geoinformatics program made me more familiar with python, javascript and other technologies.
+          Aside my core web3 development activities, I sometime carry out research activities on ML application for remote sensing
         </p>
       </div>
     </div>
