@@ -11,7 +11,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://www.linkedin.com/in/pritom-parashar-5a2636117/",
+      href: "https://www.linkedin.com/in/ojo-patrick-duke-1a30a365/",
       style: "rounded-tr-md",
     },
     {
@@ -21,7 +21,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/prtm737",
+      href: "https://github.com/dukepat",
     },
     {
       id: 3,
@@ -30,7 +30,7 @@ const SocialLinks = () => {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: "pritamparashar8@gmail.com",
+      href: "dukepato2010@gmail.com",
     },
   ];
 
