@@ -1,6 +1,6 @@
 import React from "react";
 import Typed from "react-typed";
-import Heroimg from "../images/hero-img.png";
+import Heroimg2 from "../images/hero-img.png";
 
 const Hero = () => {
   return (
