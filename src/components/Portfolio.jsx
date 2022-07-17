@@ -9,7 +9,7 @@ import Exchange from "../images/exchange.PNG";
 const Portfolio = () => {
   return (
     <div name="Portfolio" className="w-full md:h-screen my-20 py-2 text-white">
-            <div className="max-w-screen-lg py-6 flex flex-col mx-auto justify-center w-full ">
+            <div className="max-w-screen-lg pb-60 mt-70 flex flex-col mx-auto justify-center w-full ">
               <div className='pb-8'>
                   <p className='text-5xl text-center text-[#4ADE80] font-bold border-b-4 border-[#1E293B]'>Portfolio</p>
                   <p className='py-6 text-xl text-center'>Sample of my projects live on testnets</p>
