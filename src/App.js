@@ -16,8 +16,6 @@ function App() {
       <Portfolio />
       <Experience />
       <Contact />
-
-      
       <Sociallink />
     </div>
   );

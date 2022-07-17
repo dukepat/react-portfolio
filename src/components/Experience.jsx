@@ -46,13 +46,13 @@ const Experience = () => {
           },
       ];
   return (
-    <div name="Experience" className="w-full h-screen mt-40 pt-2 text-white">
-          <div className="max-w-screen-lg py-10 flex flex-col mx-auto justify-center w-full h-full ">
-              <div className="pb-5">
+    <div name="Experience" className="w-full h-screen mt-40 pt-2 py-10 text-white">
+          <div className="max-w-screen-lg flex flex-col mx-auto justify-center w-full h-full ">
+              <div className="pb-5 py-60">
                   <p className="text-5xl text-center text-[#4ADE80] font-bold border-b-4 border-[#1E293B]">Experiences</p>
                   <p className='py-6 text-xl text-center'>Technologies I've worked with</p>
               </div>
-              <div className='grid grid-cols-2 md:grid-cols-4 text-center items-center gap-40 px-14'>
+              <div className='grid grid-cols-2 md:grid-cols-4 text-center items-center gap-20 px-14'>
                   {techs.map(({ id, src, title }) => (
                           
                         <div key={id} className='shadow-md rounded-xl duration-200 hover:scale-105'>
