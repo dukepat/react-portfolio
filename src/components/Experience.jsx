@@ -5,6 +5,8 @@ import Github from "../images/github.png";
 import Tailwind from "../images/tailwind.png";
 import Reactlogo from "../images/react.png";
 import Bootstrap from "../images/bootstrap.png";
+import Solidity from "../images/solidity.png";
+import Besu from "../images/besu.png";
 
 const Experience = () => {
     const techs = [
@@ -42,6 +44,18 @@ const Experience = () => {
             id: 6,
             src: Bootstrap,
             title: "Bootstrap",
+      
+          },
+          {
+            id: 7,
+            src: Solidity,
+            title: "Solidity",
+      
+          },
+          {
+            id: 8,
+            src: Besu,
+            title: "Hyperledger Besu",
       
           },
       ];
