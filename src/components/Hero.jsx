@@ -43,7 +43,7 @@ const Hero = () => {
         <img
           src={Heroimg}
           alt=""
-          className="w-3/4 mx-auto md:w-2/3 mt-20 object-contain rounded-2xl shadow-2xl block md:mt-0 hover:scale-110 duration-300"
+          className="w-3/4 mx-auto md:w-2/3 mt-40 object-contain rounded-2xl shadow-2xl block md:mt-10 hover:scale-110 duration-300"
         />
       </div>
     </div>
